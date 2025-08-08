@@ -1,2 +1,2 @@
 # Machine Learning Algorithams-
-Machine learning model for predicting house prices using Linear Regression, built with Python and scikit-learn.
+Machine Learning Models –Implementation of Linear Regression, Naive Bayes, and Random Forest in Python using scikit-learn, showcasing training, evaluation, and comparison on sample datasets.
